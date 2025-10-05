@@ -1,4 +1,4 @@
-package com.mycampany.exerciciosselecao;
+package com.mycompany.exerciciosselecao;
 
 import java.util.Scanner;
 
